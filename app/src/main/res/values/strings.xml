@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="search">Type name</string>
+    <string name="result">Search results</string>
+    <string name="last">Last Movies</string>
+    <string name="famous">Famous Movies</string>
+    <string name="top">Top Rated</string>
+
+    <string name="upcoming">Upcoming</string>
+    <string name="notfound">Not found</string>
+</resources>
